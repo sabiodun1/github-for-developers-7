@@ -2,4 +2,4 @@
 
 # This is my first git issue 
 
-# Remember to add your favorite color the issue you created previously 
+# You should add your favorite color
